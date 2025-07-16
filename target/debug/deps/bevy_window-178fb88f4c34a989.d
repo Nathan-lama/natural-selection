@@ -1,0 +1,10 @@
+C:\Users\natbo\Documents\Projet\rust-ants-colony-simulation\target\debug\deps\bevy_window-178fb88f4c34a989.d: C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\lib.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\cursor.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\event.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\raw_handle.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\system.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\window.rs
+
+C:\Users\natbo\Documents\Projet\rust-ants-colony-simulation\target\debug\deps\libbevy_window-178fb88f4c34a989.rmeta: C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\lib.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\cursor.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\event.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\raw_handle.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\system.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\window.rs
+
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\lib.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\cursor.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\event.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\raw_handle.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\system.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.0\src\window.rs:

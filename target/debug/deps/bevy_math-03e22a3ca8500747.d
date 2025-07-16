@@ -1,0 +1,11 @@
+C:\Users\natbo\Documents\Projet\rust-ants-colony-simulation\target\debug\deps\bevy_math-03e22a3ca8500747.d: C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\lib.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\cubic_splines.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\ray.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\rects\mod.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\rects\irect.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\rects\rect.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\rects\urect.rs
+
+C:\Users\natbo\Documents\Projet\rust-ants-colony-simulation\target\debug\deps\libbevy_math-03e22a3ca8500747.rmeta: C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\lib.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\cubic_splines.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\ray.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\rects\mod.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\rects\irect.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\rects\rect.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\rects\urect.rs
+
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\lib.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\cubic_splines.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\ray.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\rects\mod.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\rects\irect.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\rects\rect.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_math-0.11.0\src\rects\urect.rs:

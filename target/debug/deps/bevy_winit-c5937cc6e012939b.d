@@ -1,0 +1,10 @@
+C:\Users\natbo\Documents\Projet\rust-ants-colony-simulation\target\debug\deps\bevy_winit-c5937cc6e012939b.d: C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\lib.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\accessibility.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\converters.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\system.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\winit_config.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\winit_windows.rs
+
+C:\Users\natbo\Documents\Projet\rust-ants-colony-simulation\target\debug\deps\libbevy_winit-c5937cc6e012939b.rmeta: C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\lib.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\accessibility.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\converters.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\system.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\winit_config.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\winit_windows.rs
+
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\lib.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\accessibility.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\converters.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\system.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\winit_config.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_winit-0.11.0\src\winit_windows.rs:

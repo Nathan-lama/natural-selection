@@ -1,0 +1,10 @@
+C:\Users\natbo\Documents\Projet\rust-ants-colony-simulation\target\release\deps\bevy_macro_utils-81e26d3f67dd68bb.d: C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.0\src\lib.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.0\src\attrs.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.0\src\shape.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.0\src\symbol.rs
+
+C:\Users\natbo\Documents\Projet\rust-ants-colony-simulation\target\release\deps\libbevy_macro_utils-81e26d3f67dd68bb.rlib: C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.0\src\lib.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.0\src\attrs.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.0\src\shape.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.0\src\symbol.rs
+
+C:\Users\natbo\Documents\Projet\rust-ants-colony-simulation\target\release\deps\libbevy_macro_utils-81e26d3f67dd68bb.rmeta: C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.0\src\lib.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.0\src\attrs.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.0\src\shape.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.0\src\symbol.rs
+
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.0\src\lib.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.0\src\attrs.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.0\src\shape.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.0\src\symbol.rs:

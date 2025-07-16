@@ -1,0 +1,8 @@
+C:\Users\natbo\Documents\Projet\rust-ants-colony-simulation\target\debug\deps\bevy_render_macros-f54b74ecb7996640.d: C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.0\src\lib.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.0\src\as_bind_group.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.0\src\extract_component.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.0\src\extract_resource.rs
+
+C:\Users\natbo\Documents\Projet\rust-ants-colony-simulation\target\debug\deps\bevy_render_macros-f54b74ecb7996640.dll: C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.0\src\lib.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.0\src\as_bind_group.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.0\src\extract_component.rs C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.0\src\extract_resource.rs
+
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.0\src\lib.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.0\src\as_bind_group.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.0\src\extract_component.rs:
+C:\Users\natbo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.0\src\extract_resource.rs:
